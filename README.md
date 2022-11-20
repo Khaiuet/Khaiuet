@@ -1,4 +1,4 @@
-### Hi Everyone ,  I'm Khai👋
+
   
 
 
@@ -8,6 +8,9 @@
 
 <!-- Profile views -->
 ![Profile views counter](https://komarev.com/ghpvc/?username=khaiuet&&style=flat-square)  
+- Name: Duc Khai
+- Hobbies: Coding, Reading Book, Sleeping
+- Sex: Male
 - Enthusiastic Programmer👨‍💻, Hard Worker👨‍🌾, Dreamer 💤 To Be Engineer 🚀
 - 🔭 I’m currently live in Hanoi, VietNam  
 - 🌱  I’m addicted to learning and growing every day  
