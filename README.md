@@ -14,7 +14,7 @@
 - Enthusiastic Programmer👨‍💻, Hard Worker👨‍🌾, Dreamer 💤 To Be Engineer 🚀
 - 🔭 I’m currently live in Hanoi, VietNam  
 - 🌱  I’m addicted to learning and growing every day  
-- 👉 I'm currently learning Web Development, Mobile Development, MERN Stack, Building a small business
+- 👉 I'm currently learning Web Development, Mobile Development, MERN Stack
 
   
 
@@ -75,9 +75,9 @@
  </div>
  
  <br/>
-💬 Reach me by email or khaitranduc587@gmail.com | Linkedin
+💬 Reach me by email or khaitranduc587@gmail.com | Linkedin: in/khaiuet
 
-📫 Visit my website:
+📫 Visit my website: khaiuet.github.io
 <br/>  
 
 
