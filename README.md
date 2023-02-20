@@ -14,8 +14,8 @@
 - Enthusiastic Programmer👨‍💻, Hard Worker👨‍🌾, Dreamer 💤 To Be Engineer 🚀
 - 🔭 I’m currently live in Hanoi, VietNam  
 - 🌱  I’m addicted to learning and growing every day  
-- 👉 I'm currently learning Web Development, Mobile Development, MERN Stack
-
+- 👉 I'm currently learning Web Development, Mobile Development, MERN Stack, Nextjs, DevOps
+- 👉 Working as a freelancer, software engineer intern
   
 
   
