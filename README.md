@@ -121,12 +121,10 @@
 
 
 ## Github Stats  
-<div style="display flex">
-<img src="https://github-readme-stats.vercel.app/api?username=Khaiuet&show_icons=true&count_private=true&hide_border=true">
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=khaiuet&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaiuet&hide_border=true&layout=compact">
- </div>
- 
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaiuet&hide_border=true&layout=compact" align="right" /></div>  
  <br/>
 💬 Reach me by email or khaitranduc587@gmail.com | Linkedin: in/khaiuet
 
