@@ -124,7 +124,7 @@
 <div style="display flex">
 <img src="https://github-readme-stats.vercel.app/api?username=Khaiuet&show_icons=true&count_private=true&hide_border=true">
 
-
+![Khaideptrai's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaiuet&theme=dark&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaiuet&hide_border=true&layout=compact">
  </div>
  
