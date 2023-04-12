@@ -109,6 +109,8 @@
 <a href="https://github.com/Khaiuet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <a href="https://linkedin.com/in/khaihongngu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -124,7 +126,6 @@
 <div style="display flex">
 <img src="https://github-readme-stats.vercel.app/api?username=Khaiuet&show_icons=true&count_private=true&hide_border=true">
 
-![Khaideptrai's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaiuet&theme=dark&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaiuet&hide_border=true&layout=compact">
  </div>
  
