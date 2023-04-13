@@ -133,7 +133,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=khaiuet&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khaiuet&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=khaiuet&show_icons=true&count_private=true&hide_border=true" align="left" />  
