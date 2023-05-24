@@ -15,7 +15,7 @@
 - 🔭 I’m currently live in Hanoi, VietNam  
 - 🌱  I’m addicted to learning and growing every day  
 - 👉 I'm currently learning Web Development, Cross Platform, MERN Stack, Nextjs, DevOps
-- 👉 Working as a Freelancer, Software Engineer Intern
+- 👉 Working as a Software Engineer Intern
   
 
   
